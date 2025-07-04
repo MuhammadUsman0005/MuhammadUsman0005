@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhammad Usman!
 
-<!--
-**MuhammadUsman0005/MuhammadUsman0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 A passionate Python learner  
+🧠 Exploring AI & Machine Learning step by step  
+🍽 Dreaming to build my own restaurant business with the help of AI  
+🚀 Future entrepreneur in tech + food + creativity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+- Python
+- C++
+- HTML
+- CSS
+- Diploma IN IT
+
+## 🛠 Tools & Tech I'm Learning:
+- Python 🐍
+- Git & GitHub 🔧
+- NumPy, Pandas, Scikit-learn 📊
+- Building projects with logic and code
+
+---
+
+## 🎯 Goals:
+- Master Python fundamentals
+- Learn Machine Learning with real examples
+- Apply AI in food business
+
+---
+
+## 📫 Let's Connect!
+- GitHub: [github.com/your-username](https://github.com/MuhammadUsman0005)
