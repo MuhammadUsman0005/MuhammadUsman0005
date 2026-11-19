@@ -21,9 +21,10 @@ I care about AI that solves real problems, and about writing code that is clean,
 
 ## Currently
 
-- Working on the proposal for an **AI-Based PPE Safety Detection and Real-Time Monitoring System** (computer vision and deep learning, YOLO-family models)
-- Strengthening my machine learning fundamentals and SQL for data work
-- Learning to write tests and to structure projects like real software
+- **AI-Based PPE Safety Detection:** Developing a project proposal for a real-time safety monitoring system using computer vision and deep learning, with a focus on evaluating YOLO-family object detection models.
+- **Machine Learning & Data Science:** Strengthening ML fundamentals, model evaluation, feature engineering, and SQL for practical data analysis.
+- **Software Engineering:** Developing better coding practices through unit testing, modular project architecture, clean code, and maintainable Python applications.
+- **Practical AI Development:** Exploring how to turn machine-learning concepts into reliable, well-structured applications through experimentation and hands-on projects.
 
 ## Featured Projects
 
