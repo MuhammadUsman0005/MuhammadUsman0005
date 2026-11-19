@@ -15,9 +15,9 @@
 
 ## About
 
-I am a BS Artificial Intelligence student at Islamia College University Peshawar. My university gives me the theory; I build the practice myself, through projects, open resources and a lot of trial and error.
+I am a BS Artificial Intelligence student at Islamia College University Peshawar. My university gives me the theory; I build the practice myself, through projects, open resources, and a lot of trial and error.
 
-I care about AI that solves real problems, and about writing code that is clean, validated and safe. My goal is to pursue fully funded graduate study in AI and grow into a technical leader in the field.
+I care about AI that solves real problems, and about writing code that is clean, validated, and safe. My goal is to pursue fully funded graduate study in AI and grow into a technical leader in the field.
 
 ## Currently
 
@@ -30,9 +30,9 @@ I care about AI that solves real problems, and about writing code that is clean,
 
 | Project | What it does | Tech |
 |---|---|---|
-| **[GPA Pro](https://github.com/MuhammadUsman0005/gpa-pro)** | Desktop app for tracking SGPA/CGPA across semesters, with a target planner, retake policies, encrypted project files and integrity checks | Python, Tkinter |
+| **[GPA Pro](https://github.com/MuhammadUsman0005/gpa-pro)** | Desktop app for tracking SGPA/CGPA across semesters, with a target planner, retake policies, encrypted project files, and integrity checks | Python, Tkinter |
 | **Student Dropout Prediction System** | Predicts dropout risk from student data and serves it through a web interface (Gradient Boosting, 88% accuracy, 0.966 AUC) | Python, scikit-learn, FastAPI, HTML/CSS/JS |
-| **Campus Performance & Enrollment System** | 7-table relational database with schema, seed data and analytical queries (window functions, CTEs, subqueries) | PostgreSQL |
+| **Campus Performance & Enrollment System** | 7-table relational database with schema, seed data, and analytical queries (window functions, CTEs, subqueries) | PostgreSQL |
 | **WhatsApp Chat Analyzer** | Turns exported chats into statistics and visual summaries | Python, web app |
 | **Osman Visuals** *(in progress)* | AI creator platform for photographers | React, Tailwind CSS, Supabase |
 
@@ -100,16 +100,12 @@ More projects: Smart Timetable Generator, Voice Command Desktop Assistant, Resta
 - **I care about safety.** I once let users paste Python code into one of my tools, then realized that was a bad idea and replaced it with a safer approach. It taught me to think about what could go wrong.
 - **I'm honest about progress.** I say what's finished, what I'm still building, and what I'm still learning. I'd rather show a small real result than a big claim.
 
-## Goal
+## Long-Term Vision
 
-Fully funded international study in AI and research, followed by a career building useful, well-engineered AI systems.
+I want to pursue a fully funded master's or PhD in AI abroad, get involved in research, and bring that knowledge back to build practical AI systems that people can rely on.
 
-## Let's Connect
+One day, I'd like to start my own AI-powered products and solve real problems with them.
 
-I am open to feedback, collaboration on student and open-source projects, and conversations with researchers and mentors in AI.
-
-- GitHub: [github.com/MuhammadUsman0005](https://github.com/MuhammadUsman0005)
-- LinkedIn: [linkedin.com/in/muhammad-usman-256364398](https://www.linkedin.com/in/muhammad-usman-256364398)
-- Email: [usman.three003@gmail.com](mailto:usman.three003@gmail.com)
+**Learn deeply. Build carefully. Make things that matter.**
 
 <p align="center"><i>Building. Learning. Improving. One project at a time.</i></p>
