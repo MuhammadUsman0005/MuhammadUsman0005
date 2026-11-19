@@ -1,84 +1,75 @@
-# Muhammad Usman
+<h1 align="center">Muhammad Usman</h1>
 
-**BS Artificial Intelligence Student · Python & Machine Learning · Aspiring AI/ML Engineer**
+<p align="center">
+  <b>BS Artificial Intelligence Student · Python, Machine Learning & Computer Vision</b><br>
+  Building practical AI projects. Learning in public. Peshawar, Pakistan.
+</p>
 
-I build practical programming projects while developing my skills in machine learning, data analysis, and computer vision. I enjoy taking a problem from an idea to a working implementation—and understanding the decisions behind the code, not just making it run.
-
-My long-term interest is in creating useful AI-powered products that solve real problems, including opportunities at the intersection of technology and business.
-
----
-
-## Current Focus
-
-- Building and evaluating machine-learning models with Python and scikit-learn.
-- Practising data preparation, feature engineering, model evaluation, and reproducible experiments.
-- Exploring computer-vision workflows with OpenCV.
-- Learning how to package models and expose predictions through APIs and simple web interfaces.
-- Improving software-development habits with Git, GitHub, documentation, and clean project structure.
-
-## Selected Projects
-
-### [Programming for AI — Lab Projects](https://github.com/MuhammadUsman0005/programming-for-ai-labs)
-A collection of coursework projects covering regression, image classification, computer vision, Random Forest experiments, and end-to-end machine-learning workflows. Each project is organised with source code, notebooks, setup instructions, and results where available.
-
-### [Osman Visuals](https://github.com/MuhammadUsman0005/osman-visuals)
-An AI-prompt resource website focused on organising creative prompt ideas and making them easier to explore and use.
-
-### Student Dropout Prediction System
-An academic machine-learning project focused on analysing student-related data and predicting dropout risk.
-
-### Smart Timetable Generator
-A programming project exploring how scheduling logic can help organise academic timetables.
-
-### Voice-Controlled Desktop Assistant
-A Python project exploring voice commands for interacting with common desktop tasks.
-
-### PPE Safety Detection
-A team-based computer-vision project focused on detecting personal protective equipment in images.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## Technical Toolkit
+## About
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+I am a BS Artificial Intelligence student at Islamia College University Peshawar. My university gives me the theory; I build the practice myself, through projects, open resources and a lot of trial and error.
 
-**Data & Machine Learning**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+I care about AI that solves real problems, and about writing code that is clean, validated and safe. My goal is to pursue fully funded graduate study in AI and grow into a technical leader in the field.
 
-**Computer Vision & Development Tools**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+## Currently
 
-**Currently exploring:** FastAPI, Streamlit, model deployment, and practical ML engineering workflows.
+- Working on the proposal for an **AI-Based PPE Safety Detection and Real-Time Monitoring System** (computer vision and deep learning, YOLO-family models)
+- Strengthening my machine learning fundamentals and SQL for data work
+- Learning to write tests and to structure projects like real software
 
----
+## Featured Projects
 
-## Education
+| Project | What it does | Tech |
+|---|---|---|
+| **[GPA Pro](https://github.com/MuhammadUsman0005/gpa-pro)** | Desktop app for tracking SGPA/CGPA across semesters, with a target planner, retake policies, encrypted project files and integrity checks | Python, Tkinter |
+| **Student Dropout Prediction System** | Predicts dropout risk from student data and serves it through a web interface (Gradient Boosting, 88% accuracy, 0.966 AUC) | Python, scikit-learn, FastAPI, HTML/CSS/JS |
+| **Campus Performance & Enrollment System** | 7-table relational database with schema, seed data and analytical queries (window functions, CTEs, subqueries) | PostgreSQL |
+| **WhatsApp Chat Analyzer** | Turns exported chats into statistics and visual summaries | Python, web app |
+| **Osman Visuals** *(in progress)* | AI creator platform for photographers | React, Tailwind CSS, Supabase |
 
-- **BS Artificial Intelligence** — in progress.
-- **Intermediate (ICS / Pre-Computer Science)**.
-- **Diploma in Information Technology (DIT)**.
+More projects: Smart Timetable Generator, Voice Command Desktop Assistant, Restaurant Web Application.
 
----
+## Tech Stack
 
-## Beyond Coding
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
-I’m interested in product ideas, entrepreneurship, visual creativity, and using technology to improve everyday workflows. I also enjoy learning independently and documenting what I build along the way.
+**Learning next:** deep learning for computer vision, model evaluation and deployment, writing automated tests.
 
----
+## How I Work
 
-## Connect
+- **Build, then explain.** Every project ends with a README that says what it does, why I made it and what I would improve.
+- **Safety by default.** Validate input, avoid unsafe patterns (I removed an `exec()` call from one of my own tools), and protect user data.
+- **Honest progress.** I list what I am working on, not only what is finished.
 
-- **GitHub:** [@MuhammadUsman0005](https://github.com/MuhammadUsman0005)
+## Goal
 
----
+Fully funded international study in AI and research, followed by a career building useful, well-engineered AI systems.
 
-*Learn deliberately. Build useful things. Improve through iteration.*
+## Let's Connect
+
+I am open to feedback, collaboration on student and open-source projects, and conversations with researchers and mentors in AI.
+
+<p>
+  <a href="https://github.com/MuhammadUsman0005?tab=repositories">Repositories</a> ·
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a>
+</p>
+
+<p align="center"><i>Building. Learning. Improving. One project at a time.</i></p>
