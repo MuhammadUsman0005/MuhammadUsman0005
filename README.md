@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-usman-256364398/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1Kv2P4ssT7KxKNe2YuXUBQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-256364398"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:usman.three003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/MuhammadUsman0005"><img src="https://img.shields.io/badge/GitHub-MuhammadUsman0005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -67,9 +68,8 @@ Fully funded international study in AI and research, followed by a career buildi
 
 I am open to feedback, collaboration on student and open-source projects, and conversations with researchers and mentors in AI.
 
-<p>
-  <a href="https://github.com/MuhammadUsman0005?tab=repositories">Repositories</a> ·
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a>
-</p>
+- GitHub: [github.com/MuhammadUsman0005](https://github.com/MuhammadUsman0005)
+- LinkedIn: [linkedin.com/in/muhammad-usman-256364398](https://www.linkedin.com/in/muhammad-usman-256364398)
+- Email: [usman.three003@gmail.com](mailto:usman.three003@gmail.com)
 
 <p align="center"><i>Building. Learning. Improving. One project at a time.</i></p>
