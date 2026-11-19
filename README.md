@@ -94,9 +94,11 @@ More projects: Smart Timetable Generator, Voice Command Desktop Assistant, Resta
 
 ## How I Work
 
-- **Build, then explain.** Every project ends with a README that says what it does, why I made it and what I would improve.
-- **Safety by default.** Validate input, avoid unsafe patterns (I removed an `exec()` call from one of my own tools), and protect user data.
-- **Honest progress.** I list what I am working on, not only what is finished.
+- **I start with the problem.** Before I write any code, I try to understand what I'm actually solving and break it into small pieces. Rushing into code usually costs me more time later.
+- **I try to keep my code tidy.** Clear folders, readable functions, and a README that someone else could follow. I'm still improving at this with every project.
+- **I check my work.** Working code isn't always correct code, so I validate inputs and look at the results before I call something finished. Writing proper tests is the next habit I'm building.
+- **I care about safety.** I once let users paste Python code into one of my tools, then realized that was a bad idea and replaced it with a safer approach. It taught me to think about what could go wrong.
+- **I'm honest about progress.** I say what's finished, what I'm still building, and what I'm still learning. I'd rather show a small real result than a big claim.
 
 ## Goal
 
